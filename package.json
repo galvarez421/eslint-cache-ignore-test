@@ -1,0 +1,15 @@
+{
+  "name": "eslint-cache-ignore-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test-cache-ignore": "eslint test.js --cache"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "5.12.1"
+  }
+}
